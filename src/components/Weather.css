@@ -1,0 +1,50 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    font-size: 2rem;
+}
+
+.card-text {
+    font-size: 1.2rem;
+}
+
+input[type="text"] {
+    padding: 12px;
+    width: 250px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 12px;
+    background-color: #ff5e00;
+    color: rgb(49, 7, 219);
+    border: none;
+    cursor: pointer;
+    width: 120px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.text-white {
+    color: rgb(7, 244, 78) !important;
+}
+
+.bg-dark {
+    background-color: rgba(227, 11, 11, 0.6);
+}
