@@ -42,7 +42,7 @@ button:hover {
 }
 
 .text-white {
-    color: rgb(7, 244, 78) !important;
+    color: rgb(7, 244, 78);
 }
 
 .bg-dark {
